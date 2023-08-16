@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/awesomecakex/dvc-test/issues"
   },
-  "homepage": "https://github.com/awesomecakex/dvc-test#readme"
+  "homepage": "https://github.com/awesomecakex/dvc-test#readme",
+  "dependencies": {
+    "fs-extra": "^11.1.1"
+  }
 }
