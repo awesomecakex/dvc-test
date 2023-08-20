@@ -1,6 +1,5 @@
 outs:
-- md5: 52e9ec0de217791bca8742e9280acc4e
+- md5: f67787b8b9d9d7d90eb878895158fc73
   size: 3038099
-  isexec: true
-  hash: md5
   path: movies.csv
+  isexec: true
