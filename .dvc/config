@@ -1,6 +1,0 @@
-[core]
-    remote = minio2
-['remote "minio"']
-    url = s3://local-hkube-datasource/data_cache
-['remote "minio2"']
-    url = http://172.17.0.3:44229/browser/local-hkube-datasource/ZGF0YV9jYWNoZS8=
