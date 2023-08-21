@@ -1,5 +1,0 @@
-outs:
-- md5: 78dc82896650a4a4d64ebae6ef0ea9b8
-  size: 183058613
-  path: movie_relevence.csv
-  isexec: true
